@@ -21,8 +21,6 @@ public class MonoPackageManager_Resources {
 		"System.Configuration.ConfigurationManager.dll",
 		"System.Data.SQLite.dll",
 		"System.Data.SQLite.EF6.dll",
-		"System.Net.Http.Extensions.dll",
-		"System.Net.Http.Primitives.dll",
 		"System.Security.AccessControl.dll",
 		"System.Security.Permissions.dll",
 		"System.Security.Principal.Windows.dll",

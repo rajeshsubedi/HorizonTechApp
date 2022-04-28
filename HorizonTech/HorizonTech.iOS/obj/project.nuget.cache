@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JsHDtZk0LB6BNV24tq+NOpQLvRm8nFkL4avjUI6MxhHwdCqDE2kvS3XT307r8z9nQh2xVauKlE3Q0ylK2LyILA==",
+  "dgSpecHash": "YJ4DJRosEdtMekhksdhH5bskg06f2YNoH5zN5VD1eOXHxI/xrRkgkdr/nW/jeTdLdHl4rxM/LdkdwkqOEN3QWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\source\\repos\\HorizonTech\\HorizonTech\\HorizonTech.iOS\\HorizonTech.iOS.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,7 @@
     "C:\\Users\\hp\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\system.data.sqlclient\\4.8.1\\system.data.sqlclient.4.8.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.data.sqlite\\1.0.115.5\\system.data.sqlite.1.0.115.5.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.data.sqlite.ef6\\1.0.115.5\\system.data.sqlite.ef6.1.0.115.5.nupkg.sha512",

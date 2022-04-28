@@ -135,6 +135,10 @@
               "target": "Package",
               "version": "[1.0.115.5, )"
             },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
             "Xam.Plugins.Forms.ImageCircle": {
               "target": "Package",
               "version": "[3.0.0.5, )"

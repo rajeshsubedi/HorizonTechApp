@@ -6,7 +6,6 @@ using SQLite;
 namespace HorizonTech.FeaturesDatabase
 {
 
-
     public class Person
     {
         [PrimaryKey, AutoIncrement]

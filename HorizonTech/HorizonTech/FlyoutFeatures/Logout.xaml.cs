@@ -12,7 +12,7 @@ namespace HorizonTech.FlyoutFeatures
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Logout : ContentPage
     {
-        public Feature5()
+        public Logout()
         {
             InitializeComponent();
         }
